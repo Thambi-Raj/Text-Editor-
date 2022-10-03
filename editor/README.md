@@ -1,2 +1,2 @@
-# XNK98421475-Campers
-A Chrome extension to make sophisticated Notes 
+Text editor
+it is very useful to taking notes
